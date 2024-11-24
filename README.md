@@ -27,5 +27,10 @@ Custom error responses with detailed error messages.
 Validation for inputs like book prices, categories, and order quantities.
 Structured API Responses
 
-Uniform success and error response structure for easy debugging.
+##Technologies Used
+Node.js, Express, TypeScript, MongoDB, Mongoose, Postman, Git
+
+##Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
 
